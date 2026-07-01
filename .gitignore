@@ -7,3 +7,6 @@ Gemfile.lock
 
 # claude
 .claude
+
+# hide project instructions from public repo
+CLAUDE.md
